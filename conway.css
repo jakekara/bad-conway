@@ -1,0 +1,17 @@
+rect {
+    fill: magenta;
+    stroke: black;
+    strokeWidth: 1;
+}
+
+rect.alive {
+    fill:gold;
+    fill: #efefef;
+}
+
+body{
+    background-color: #444;
+    text-align: center;
+    vertical-align: center;
+			  
+}
